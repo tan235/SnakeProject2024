@@ -4,9 +4,6 @@ from food import Food
 from scoreboard import Scoreboard
 import time
 
-# TESTING FOR GIT
-# Test 2
-
 screen = Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor("black")
